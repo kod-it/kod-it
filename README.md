@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const kod-it = {
+const akashDip = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node, Google Firebase],
