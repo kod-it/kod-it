@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="230">
 <p><em>CSE undergrad student at <a href="http://www.bitmesra.ac.in">BIT Mesra</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
-[![Linkedin: akashdip](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashdip/)](https://www.linkedin.com/in/akashdip/)
+[![Linkedin: akashdip](https://img.shields.io/badge/-akashdip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashdip/)](https://www.linkedin.com/in/akashdip/)
 [![GitHub kod-it](https://img.shields.io/github/followers/kod-it?label=follow&style=social)](https://github.com/kod-it)
 
 
