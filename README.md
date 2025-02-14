@@ -6,8 +6,6 @@
 [![GitHub kod-it](https://img.shields.io/github/followers/kod-it?label=follow&style=social)](https://github.com/kod-it)
 
 
-### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50"> A little more about me...  
-
 <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
