@@ -8,19 +8,6 @@
 
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const akashDip = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node, Google Firebase],
-  techCommunities: {
-                        mentor: ["Flutter Felicitator", "Winter of Code '21"],
-                        positions: []
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on DSA"
-}
-```
-
 <img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
